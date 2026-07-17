@@ -1,0 +1,7 @@
+site_name: 我的开源软件开发博客
+site_url: https://ycr986.github.io/
+theme:
+  name: readthedocs
+nav:
+  - 首页: index.md
+  - 第一篇博客文章: article1.md
